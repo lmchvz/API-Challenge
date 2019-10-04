@@ -1,4 +1,3 @@
-# python-api-challenge
 Python APIs Homework - Due Date: Saturday, October 5, 2019 11:59 PM Local
 
 # Python API Homework - What's the Weather Like?
